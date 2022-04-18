@@ -88,7 +88,7 @@ public class MainTest1{
 
 	}
 	
-	
+	//this is hhol;,nbvfguik,;nbcghjkl,;nbvbcukm,; nbcvghjk
 	//Test un peu plus avance, on parcourt les composants et on affiche, pour ceux qui sont de type ressource, le ou les extracteur permettant de les recuperer
 	public static void test2() 
 	{
