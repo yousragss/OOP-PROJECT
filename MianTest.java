@@ -48,6 +48,28 @@ public class MainTest1{
 	    }
 	}
 	
+	/*
+	         		Scanner sc = new Scanner(System.in);
+         	    
+         		do
+     			{
+         			System.out.println("Entrer un choix parmi 1, 2 ou 3");
+    				System.out.println("1: Test simple : on parcourt le fichier, et on affiche le nom et id de chaque composant");
+    				System.out.println("2: Test un peu plus avance, on parcourt les composants et on affiche, pour ceux qui sont de type ressource, le ou les extracteur permettant de les recuperer");		
+             		System.out.println("3: Test sur la 6eme recette afin d'afficher la liste de ses ingredients en entree et leur quantite");
+             		
+         			i=sc.nextInt();
+	     			if (i==1)	test1();
+	     			else if (i==2)	
+	     				test2();
+	     			else if (i==3)	
+	     				test3();
+	     			else
+	     				System.out.println("Veuiller entrer un choix valide.");
+	        		
+     			}while(i!=1 && i!=2 && i!=3);
+			*/
+	
 	
 	//Test simple : on parcourt le fichier, et on affiche le nom et id de chaque composant
 	public static void test1() 
